@@ -4,7 +4,7 @@
 
 # Projects in Machine Learning Foundation Nanodegree
 
-1. [Explore US Bikeshare Data](https://github.com/soni-ratnesh/Machine-Learning-Foundation-Nanodegree/tree/master/Explore-Us-Bikeshare-Data)
+1. Explore US Bikeshare Data
 
 
 2. Test a Perceptual Phenomenon
